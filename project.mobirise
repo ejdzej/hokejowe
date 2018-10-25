@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-10-25_0952",
-    "currentPage": "partnerzy.html",
+    "currentPage": "dolacz.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 36,
+    "uniqCompNum": 50,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -120,13 +120,21 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"onas.html\" data-toggle=\"dropdown-submenu\">O nas</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"zalozyciele.html\">Założyciele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aktualnosci.html\" aria-expanded=\"false\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dlazawodnikow.html\">Dla zawodników</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Partnerzy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"onas.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">O nas</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"zalozyciele.html\">Założyciele</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statut.html\">Statut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cele.html\">Cele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aktualnosci.html\" aria-expanded=\"false\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dlazawodnikow.html\">Dla zawodników</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Partnerzy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Dołącz do nas!</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead B": {
+              "font-size": "19px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "19px"
+            }
+          },
           "_anchor": "header1-3",
           "_params": {
             "parallax": true,
@@ -149,15 +157,7 @@
           },
           "title": "Sukces to gra zespołowa",
           "text": "<br>Polski hokej nie jest silny. Brakuje nam środków, umiejętności, zdolności organizacyjnych. Ale nie brakuje nam jednego – zawodników z sercem, którzy z zapałem i entuzjazmem godnym lepszej sprawy nadstawiają karku, tracą zęby i łamią kości dla radości z gry. <br><br>Nie wiemy, czy jest w tym jakiś wielki potencjał. Czy dzięki temu Polska ma szanse stać się hokejową siłą lub chociaż krajem liczącym się na hokejowej mapie. Ale wiemy, że ludzie z pasją zasługują na szacunek. Że sportowcy zasługują na traktowanie zgodne z zasadą fair play. <br><br>To dlatego zakładamy stowarzyszenie i dlatego chcemy pracować w nim społecznie – by pomagać zawodnikom, walczyć o ich prawa i promować hokej - najpiękniejszą dyscyplinę sportową na Świecie. Zapraszamy do współpracy wszystkich, którym też leży to na sercu.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> ",
-          "_styles": {
-            ".mbr-section-lead B": {
-              "font-size": "19px"
-            },
-            ".mbr-section-lead": {
-              "font-size": "19px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
         },
         {
           "_inherit": "gallery1",
@@ -385,6 +385,19 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>Spotaknie załozycielskie odbyło się w krakowie pazdziernik 2018; Skład grupy założycielskiej 7 zalożycieli oraz   18 zawodników( musisz dopisac ile osob z katowic masz deklaracje)  lącznie= .......................Są to czynni zawodnicy z klubów Tatryski Podhale Nowy Targ , Comarch Cracovia oraz Tauron GKS Katowice</blockquote>"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
@@ -418,6 +431,17 @@
             "Theme"
           ],
           "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "contacts3-8",
           "_params": {
             "paddingTop": "4",
@@ -516,18 +540,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Wyślij</a>",
-          "_styles": {
-            "H4": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            },
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Wyślij</a>"
         }
       ]
     },
@@ -666,7 +679,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"onas.html\" data-toggle=\"dropdown-submenu\">O nas</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"zalozyciele.html\">Założyciele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aktualnosci.html\" aria-expanded=\"false\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dlazawodnikow.html\">Dla zawodników</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Partnerzy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"onas.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">O nas</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"zalozyciele.html\">Założyciele</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statut.html\">Statut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cele.html\">Cele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aktualnosci.html\" aria-expanded=\"false\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dlazawodnikow.html\">Dla zawodników</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Partnerzy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -835,7 +848,7 @@
             "paddingBottom": "4",
             "bgColor": "#fff"
           },
-          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text1": "<p>Spotaknie załozycielskie odbyło się w krakowie pazdziernik 2018. </p><p>Skład grupy założycielskiej 7 zalożycieli oraz   18 zawodników( musisz dopisac ile osob z katowic masz deklaracje)  lącznie= .......................</p><p>Są to czynni zawodnicy z klubów Tatryski Podhale Nowy Targ , Comarch Cracovia oraz Tauron GKS Katowice</p>",
           "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         },
@@ -923,7 +936,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"onas.html\" data-toggle=\"dropdown-submenu\">O nas</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"zalozyciele.html\">Założyciele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aktualnosci.html\" aria-expanded=\"false\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dlazawodnikow.html\">Dla zawodników</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Partnerzy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"onas.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">O nas</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"zalozyciele.html\">Założyciele</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statut.html\">Statut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cele.html\">Cele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aktualnosci.html\" aria-expanded=\"false\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dlazawodnikow.html\">Dla zawodników</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Partnerzy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -1102,6 +1115,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
@@ -1111,11 +1128,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "count": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "Poznajcie naszych założycieli",
           "subtitle": ""
@@ -1370,6 +1383,11 @@
             "Theme"
           ],
           "_name": "features2",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ffffff"
+            }
+          },
           "_anchor": "features2-u",
           "_params": {
             "columnsColor": "#ffffff",
@@ -1485,12 +1503,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#ffffff"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -1964,6 +1977,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-z",
           "_params": {
             "labelsColor": "#232323",
@@ -2009,12 +2027,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>"
         },
         {
           "_styles": {
@@ -2100,7 +2113,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"onas.html\" data-toggle=\"dropdown-submenu\">O nas</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"zalozyciele.html\">Założyciele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aktualnosci.html\" aria-expanded=\"false\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dlazawodnikow.html\">Dla zawodników</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Partnerzy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"onas.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">O nas</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"zalozyciele.html\">Założyciele</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statut.html\">Statut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cele.html\">Cele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aktualnosci.html\" aria-expanded=\"false\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dlazawodnikow.html\">Dla zawodników</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Partnerzy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_tags": [
@@ -2442,6 +2455,798 @@
             }
           },
           "_anchor": "contacts3-p",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hokej-logo-2-265x121.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text3": "1234 Street Name, City AA 99999",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "title1": "Kategorie",
+          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
+          "text6": "<strong>Kontakt</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Adres</strong><br>1234 Street Name<br>City, AA 99999",
+          "form": {
+            "title": "MESSAGE",
+            "action": "janerko@gmail.com",
+            "alerts": {
+              "success": "Dziękujemy za wypełnienie formularza!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Wiadomość"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Wyślij</a>"
+        }
+      ]
+    },
+    "statut.html": {
+      "settings": {
+        "title": "Statut",
+        "meta_descr": "Site Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<p><span style=\"font-size: 3rem; letter-spacing: -1px; line-height: 1.1;\"><br></span></p><p><span style=\"font-size: 3rem; letter-spacing: -1px; line-height: 1.1;\">Statut</span><br></p>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-16",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><b>STATUT</b></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><b>STOWARZYSZENIA ZAWODNIKÓW HOKEJA NA LODZIE</b></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><b>ROZDZIAŁ I</b></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><b>POSTANOWIENIA OGÓLNE</b></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Stowarzyszenie nosi nazwę Stowarzyszenie Zawodników Hokeja na Lodzie w dalszych postanowieniach statutu zwane Stowarzyszeniem.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Siedzibą stowarzyszenia jest miasto Nowy Targ. Terenem działania jest Rzeczpospolita Polska i Unia Europejska.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Dla realizacji celów statutowych stowarzyszenie może działać na terenie innych państw z poszanowaniem tamtejszego prawa.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Stowarzyszenie jest zawiązane na czas nieoznaczony. Posiada osobowość prawną. Działa na podstawie przepisów ustawy z dnia 7 kwietnia 1989 r. Prawo o Stowarzyszeniach( Dz.U. z 2001, Nr 79, poz. 855 z późn. zm.) oraz niniejszego statutu.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Stowarzyszenie może należeć do innych krajowych i międzynarodowych organizacji o podobnych celach lub o profilu działania.&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Działalność Stowarzyszenia oparta jest przede wszystkim na pracy społecznej członków. Do prowadzenia swych spraw stowarzyszenie może zatrudniać pracowników.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><b>ROZDZIAŁ II</b></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><b>CELE I ŚRODKI DZIAŁANIA</b></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Celem Stowarzyszenia jest działalność w zakresie kultury fizycznej i sportu,   w tym w szczególności :</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>1.1.\tochrona interesów zawodników uprawiających hokej na lodzie  i dbanie o jak \tnajlepszy wizerunek i pozycję członków wobec federacji sportowych i \tklubów sportowych, a także innych organizacji zarządzających rozrywkami \tw hokeju na lodzie,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>1.2.\tszkolenia zawodników co do ich praw i obowiązków wynikających z \tregulacji federacji sportowych, klubów sportowych a także innych \torganizacji zarządzających rozrywkami w hokeju na lodzie,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>1.3.\tszkolenia zawodników z zakresu podstawowych zagadnień prawa \tpowszechnie obowiązującego i prowadzenia działalności gospodarczej,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>1.4.\tpozyskiwanie sponsorów przekazujących środki na realizację pozostałych \tcelów statutowych,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>1.5.\tpomoc materialna i niematerialna członkom, w szczególności zmierzająca do:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>a)\tułatwienia młodym zawodnikom startu w karierze,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>b)\tpoprawy sytuacji zawodników pokrzywdzonych w wyniku \tniekorzystnych dla nich decyzji podjętych przez odpowiednie organy \torganizacji hokeja na lodzie w kraju i za granicą,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>c)\taktywizacji zawodowej zawodników, w szczególności po zakończeniu \tprzez nich sportowych karier.&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>1.6.\tpopularyzacja zdrowego trybu życia , w tym poprzez uprawianie sportu, w    \tszczególności zaś hokeja na lodzie,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>1.7.\tpopularyzacja hokeja na lodzie jako dyscypliny sportu.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Stowarzyszenie realizuje swoje cele w szczególności poprzez:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>2.1.\tudostępnianie materiałów szkoleniowych,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>2.2.\tkoordynowanie wymiany informacji pomiędzy członkami,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>2.3.\torganizowanie i uczestnictwo w spotkaniach i szkoleniach,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>2.4.\tlobbing na korzyść członków w krajowych i międzynarodowych organizacjach hokejowych</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>2.5.\tudział w międzynarodowych organizacjach zrzeszających zawodników hokeja na lodzie,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>2.6.\tupowszechnianie informacji dotyczących członków, ich praw i obowiązków \twynikających z przepisów krajowych i międzynarodowych organizacji \thokeja na lodzie oraz przepisów prawa powszechnie obowiązującego,&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>2.7.\treprezentowanie interesów członków w relacjach z osobami i podmiotami \tzewnętrznymi, w szczególności w relacjach z przedstawicielami krajowych i \tmiędzynarodowych organizacji hokeja na lodzie oraz potencjalnymi \tsponsorami,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>2.8.\tprzygotowywanie projektów przepisów regulujących relacje zawodników z \tinnymi podmiotami funkcjonującymi w hokeju na lodzie.&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><b>ROZDZIAŁ III</b></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><b>CZŁONKOWIE – PRAWA I OBOWIĄZKI</b></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Członkami Stowarzyszenia mogą być osoby fizyczne i prawne. Osoba prawna może być jedynie członkiem wspierającym Stowarzyszenia.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Stowarzyszenie posiada członków:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>2.1.\tzwyczajnych,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>2.2\twspierających,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>2.3.\thonorowych.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Członkiem Zwyczajnym Stowarzyszenia może być każda osoba fizyczna, która:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>3.1.\tjest lub była zawodnikiem klubu zrzeszonego w strukturach Polskiego \tZwiązku Hokeja na Lodzie,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>3.2.\tzłoży pisemną deklarację zawierającą rekomendację dwóch członków \tzwyczajnych Stowarzyszenia.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Małoletni w wieku od 16 do 18 lat, którzy mają ograniczoną zdolność do czynności prawnych, mogą należeć do Stowarzyszenia i brać udział w głosowaniu na Walnym Zebraniu Członków, jednakże nie posiadają czynnego i biernego prawa wyborczego do władz Stowarzyszenia.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Małoletni poniżej 16 roku życia mogą być członkami Stowarzyszenia za zgodą przedstawicieli ustawowych wyrażoną na piśmie bez prawa udziału w głosowaniu na Walnym Zebraniu Członków oraz bez korzystania z czynnego i biernego prawa wyborczego do władz Stowarzyszenia.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Osoba ubiegająca się o przyjęcie do stowarzyszenia staje się członkiem zwyczajnym na podstawie uchwały Zarządu </i></span></font></div><div><i style=\"line-height: 17.33333396911621px; font-family: Lora, serif;\"><br></i></div><div><i style=\"line-height: 17.33333396911621px; font-family: Lora, serif;\">Stowarzyszenia podjętej nie później niż w ciągu 2 miesięcy od daty złożenia deklaracji.</i><br></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Członkiem wspierającym Stowarzyszenie może zostać osoba fizyczna i prawna deklarująca pomoc finansową, rzeczową lub merytoryczną w realizacji celów Stowarzyszenia.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Osoba fizyczna lub prawna staje się członkiem wspierającym stowarzyszenia  po złożeniu pisemnej deklaracji na podstawie uchwały Zarządu podjętej nie później niż w ciągu 2 miesięcy od daty złożenia deklaracji.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Członkiem honorowym Stowarzyszenia może być osoba fizyczna, która wniosła wybitny wkład w działalność i rozwój Stowarzyszenia a także hokeja na lodzie.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Członkowie honorowi są przyjmowani przez Walne Zebranie Członków na wniosek Zarządu lub co najmniej 10 członków Stowarzyszenia.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Członkowie zwyczajni mają prawo:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>11.1. biernego i czynnego uczestniczenia w wyborach do władz Stowarzyszenia,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>11.2. korzystania z dorobku, majątku i wszelkich form działalności \tStowarzyszenia,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>11.3.\tudziału w zebraniach, wykładach oraz imprezach organizowanych przez \tStowarzyszenie,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>11.4.\tzgłaszania wniosków co do działalności Stowarzyszenia.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Członkowie zwyczajni mają obowiązek:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>12.1.\tbrania udziału w działalności Stowarzyszenia i realizacji jego celów,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>12.2.\tprzestrzegania statutu i uchwał władz Stowarzyszenia,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>12.3.\tregularnego opłacania składek.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Członkowie wspierający i honorowi nie posiadają biernego oraz czynnego prawa wyborczego, mogą jednak brać udział z głosem doradczym w statutowych władzach Stowarzyszenia, poza tym posiadają takie prawa jak członkowie zwyczajni.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Członek wspierający ma obowiązek wywiązywania się z zadeklarowanych świadczeń, przestrzegania statutu oraz uchwał władz Stowarzyszenia.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Członkowie honorowi są zwolnieni ze składek członkowskich.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Utrata członkostwa następuje na skutek:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>16.1.\tpisemnej rezygnacji złożonej na ręce Zarządu,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>16.2.\twykluczenia przez Zarząd</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>a)\tz powodu naruszenia przepisów statutu lub nieprzestrzegania uchwał \twładz Stowarzyszenia,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>b)\tz powodu rezygnacji z czynnego udziału w pracach Stowarzyszenia,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>c)\tz powodu nieusprawiedliwionego zalegania z opłatą składek \tczłonkowskich lub innych zobowiązań wobec Stowarzyszenia, przez okres \tco najmniej dziewięciu miesięcy,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>d)\tna pisemny wniosek większości członków Stowarzyszenia,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>e) z powodu działania członka Stowarzyszenia, które może narazić Stowarzyszenie na szkodę lub w inny sposób negatywnie wpływać na działalność Stowarzyszenia</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>16.3.\tskazania za przestępstwo lub przestępstwo skarbowe na karę pozbawienia wolności na podstawie prawomocnego wyroku sądu,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>16.4.\tśmierci członka lub utraty osobowości prawnej przez osoby prawne.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Od uchwały Zarządu w sprawie pozbawienia członkostwa zainteresowanemu przysługuje odwołanie do Walnego Zebrania Członków w terminie 14 dni od doręczenia stosownej uchwały. Odwołanie jest rozpatrywane na najbliższym Walnym Zebrania Członków. Uchwała Walnego Zebrania członków w przedmiotowym zakresie jest ostateczna. Do czasu rozstrzygnięcia sprawy przez Walne Zebranie członkostwo zainteresowanego ulega zawieszeniu.&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><b>ROZDZIAŁ IV</b></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><b>WŁADZE STOWARZYSZENIA</b></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Władzami Stowarzyszenia są:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>1.1.\tWalne Zebranie Członków,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>1.2.\tZarząd,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>1.3.\tKomisja Rewizyjna.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Kadencja władz.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>2.1.\tkadencja wszystkich władz wybieralnych Stowarzyszenia trwa cztery lata, \ta wybór ich członków odbywa się w głosowaniu jawnym bezwzględną większością głosów,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>2.2.\tczłonkowie wybrani do władz Stowarzyszenia mogą tę samą funkcję \tpełnić nie dłużej niż przez trzy kadencje chyba, że Walne Zebranie \tzdecyduje inaczej w konkretnym przypadku.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowani, chyba że dalsze postanowienia statutu stanowią inaczej.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Walne Zebranie Członków jest najwyższą władzą Stowarzyszenia. W Walnym Zebraniu Członków biorą udział:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>4.1.\tz głosem stanowiącym – członkowie zwyczajni,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>4.2.\tz głosem doradczym – członkowie wspierający, honorowi oraz zaproszeni \tgoście.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Walne Zebranie Członków może być zwyczajne i nadzwyczajne.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Walne Zebranie Członków zwyczajne jest zwoływane raz na dwa lata przez Zarząd Stowarzyszenia, a Walne Zebranie dokonujące wyboru Zarządu i Komisji Rewizyjnej co cztery lata. Termin, miejsce oraz proponowany porządek obrad Zarząd podaje do wiadomości wszystkich członków co najmniej na 14 dni przed terminem zebrania.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Walne Zebranie Członków nadzwyczajne może się odbyć w każdym czasie. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej połowy ogólnej liczby członków zwyczajnych Stowarzyszenia.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Uchwały Walnego Zebrania Stowarzyszenia zapadają bezwzględną większością głosów w obecności przynajmniej połowy ogólnej liczby członków. Głosowanie jest jawne.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Do kompetencji Walnego Zebrania Członków należą:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>9.1.\tokreślenie głównych kierunków działania i rozwoju Stowarzyszenia,&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>9.2.\tuchwalania zmian statutu,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>9.3.\twybór i odwołanie Zarządu i Komisji Rewizyjnej lub poszczególnych członków tych organów,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>9.4.\tudzielanie ustępującemu Zarządowi absolutorium na wniosek Komisji \tRewizyjnej,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>9.5.\trozpatrywanie sprawozdań z działalności Zarządu i Komisji Rewizyjnej,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>9.6.\tpodejmowanie uchwał w sprawie przyjęcia członka honorowego,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>9.7.\trozpatrywanie i zatwierdzanie sprawozdań władz Stowarzyszenia,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>9.8.\trozpatrywanie wniosków i postulatów zgłoszonych przez członków \tStowarzyszenia lub jego władze,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>9.9.\trozpatrywanie odwołań od uchwał Zarządu,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>9.10.\tpodejmowanie uchwały o rozwiązaniu Stowarzyszenia i przeznaczeniu \tjego majątku.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Zarząd jest powołany do kierowania całą działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania Członków. Zarząd reprezentuje Stowarzyszenie na zewnątrz.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Zarząd składa się z 3 do 5 osób w tym prezesa oraz dwóch wiceprezesów. Prezesa i wiceprezesów wybiera Zarząd spośród swoich członków. Pierwszego Prezesa wybiera się na zebraniu założycielskim.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż raz na 3 miesiące. Posiedzenia Zarządu zwołuje Prezes Zarządu.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Do kompetencji Zarządu należą:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>13.1.\trealizacja celów Stowarzyszenia,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>13.2.\twykonywanie uchwał Walnego Zebrania Członków,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>13.3.\tsporządzanie planów pracy i budżetu,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>13.4.\tsprawowanie zarządu nad majątkiem Stowarzyszenia,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>13.5.\tpodejmowanie uchwał o nabywaniu, zbywaniu lub obciążaniu majątku \tStowarzyszenia,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>13.6.\treprezentowanie Stowarzyszenia na zewnątrz,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>13.7.\tzwoływanie Walnego Zebrania Członków,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>13.8.\tprzyjmowanie i wykluczanie członków,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>13.9.\tuchwalanie wysokości składek członkowskich oraz wszystkich innych \tświadczeń na rzecz Stowarzyszenia oraz określa regulamin uiszczania składek</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>13.10.\tpodejmowanie uchwał w każdej sprawie wniesionej pod obrady, we \twszystkich sprawach nie zastrzeżonych do kompetencji innych władz \tstowarzyszenia.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Komisja Rewizyjna powoływana jest do sprawowania kontroli nad działalnością Stowarzyszenia.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Komisja Rewizyjna składa się z 3 osób w tym przewodniczącego, zastępcy oraz sekretarza.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Do kompetencji Komisji Rewizyjnej należy:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>16.1.\tkontrolowanie działalności Zarządu,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>16.2.\tskładanie wniosków z kontroli na Walnym Zebraniu Członków,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>16.3.\tprawo wystąpienia z wnioskiem o zwołanie Walnego Zebrania Członków \toraz zebrania Zarządu,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>16.4.\tskładanie wniosków  o absolutorium dla władz Stowarzyszenia,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>16.5.\tskładanie sprawozdań ze swojej działalności na Walnym Zebraniu \tCzłonków.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>W razie gdy skład władz Stowarzyszenia ulegnie zmniejszeniu w czasie trwania kadencji uzupełnienie ich składu może nastąpić w drodze kooptacji, której dokonują pozostali członkowie organu, który uległ zmniejszeniu. W tym trybie można powołać nie więcej niż połowę składu organu. Kooptacja nie może nastąpić w razie odwołania członka organu przez Walne Zebranie Członków.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><b>ROZDZIAŁ V</b></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><b>MAJĄTEK I FUNDUSZE</b></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Majątek Stowarzyszenia powstaje:</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>1.1.\tze składek członkowskich,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>1.2.\tdarowizn, spadków, zapisów,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>1.3.\tdotacji i ofiarności publicznej,</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>1.4.\tz prowadzenia działalności gospodarczej.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>2.\tStowarzyszenie może prowadzić działalność gospodarczą. Zakres i przedmiot \tdziałalności gospodarczej określa Zarząd Stowarzyszenia.&nbsp;</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>3.\tStowarzyszenie prowadzi gospodarkę finansową zgodnie z obowiązującymi \tprzepisami.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>4.\tDecyzje w sprawie nabywania, zbywania i obciążania majątku Stowarzyszenia \tpodejmuje Zarząd.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>5.\tDo zawierania umów, udzielania pełnomocnictwa i składania innych oświadczeń \twoli w szczególności w sprawach majątkowych upoważniony jest Prezes \tZarządu samodzielnie lub  dwóch członków Zarządu działających łącznie.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><b>ROZDZIAŁ VI</b></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><b>POSTANOWIENIA KOŃCOWE</b></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Uchwałę w sprawie zmiany statutu oraz uchwałę o rozwiązaniu Stowarzyszenia podejmuje Walne Zebranie Członków kwalifikowaną większością głosów – (2/3), przy obecności co najmniej połowy osób uprawnionych do głosowania.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>Podejmując uchwałę o rozwiązaniu Stowarzyszenia Walne Zebranie Członków określa sposób jego likwidacji oraz przeznaczenie majątku Stowarzyszenia.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i>W sprawach nie uregulowanych w niniejszym statucie zastosowanie mają przepisy ustawy Prawo o Stowarzyszeniach.</i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div><div><font face=\"Lora, serif\"><span style=\"line-height: 17.33333396911621px;\"><i><br></i></span></font></div>",
+          "_styles": {
+            "DIV": {
+              "text-align": "center",
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-11",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/hokej-logo-1-666x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"onas.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">O nas</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"zalozyciele.html\">Założyciele</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statut.html\">Statut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cele.html\">Cele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aktualnosci.html\" aria-expanded=\"false\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dlazawodnikow.html\">Dla zawodników</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Partnerzy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Dołącz do nas!</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-12",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hokej-logo-2-265x121.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text3": "1234 Street Name, City AA 99999",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "title1": "Kategorie",
+          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
+          "text6": "<strong>Kontakt</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Adres</strong><br>1234 Street Name<br>City, AA 99999",
+          "form": {
+            "title": "MESSAGE",
+            "action": "janerko@gmail.com",
+            "alerts": {
+              "success": "Dziękujemy za wypełnienie formularza!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Wiadomość"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Wyślij</a>"
+        }
+      ]
+    },
+    "cele.html": {
+      "settings": {
+        "title": "Cele",
+        "meta_descr": "Web Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-17",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "<br>CELE",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-18",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Celem Stowarzyszenia jest działalność w zakresie kultury fizycznej i sportu,   w tym w szczególności :</b></p><p><br></p><ol><li>ochrona interesów zawodników uprawiających hokej na lodzie  i dbanie o jak \tnajlepszy wizerunek i pozycję członków wobec federacji sportowych i \tklubów sportowych, a także innych organizacji zarządzających rozrywkami \tw hokeju na lodzie,</li><li>szkolenia zawodników co do ich praw i obowiązków wynikających z \tregulacji federacji sportowych, klubów sportowych a także innych \torganizacji zarządzających rozrywkami w hokeju na lodzie,</li><li>szkolenia zawodników z zakresu podstawowych zagadnień prawa \tpowszechnie obowiązującego i prowadzenia działalności gospodarczej,</li><li>pozyskiwanie sponsorów przekazujących środki na realizację pozostałych \tcelów statutowych,</li><li>pomoc materialna i niematerialna członkom, w szczególności zmierzająca do:</li><li>ułatwienia młodym zawodnikom startu w karierze,</li><li>poprawy sytuacji zawodników pokrzywdzonych w wyniku \tniekorzystnych dla nich decyzji podjętych przez odpowiednie organy \torganizacji hokeja na lodzie w kraju i za granicą,</li><li>aktywizacji zawodowej zawodników, w szczególności po zakończeniu \tprzez nich sportowych karier.&nbsp;</li><li>popularyzacja zdrowego trybu życia , w tym poprzez uprawianie sportu, w    \tszczególności zaś hokeja na lodzie,</li><li>popularyzacja hokeja na lodzie jako dyscypliny sportu.</li></ol>",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-13",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/hokej-logo-1-666x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"onas.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">O nas</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"zalozyciele.html\">Założyciele</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statut.html\">Statut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cele.html\">Cele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aktualnosci.html\" aria-expanded=\"false\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dlazawodnikow.html\">Dla zawodników</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Partnerzy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Dołącz do nas!</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-14",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hokej-logo-2-265x121.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text2": "+1 (0) 000 0000 001 or +1 (0) 000 0000 002",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "map-pin",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text3": "1234 Street Name, City AA 99999",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont-company-contacts3",
+              "linkInNewWindow": false,
+              "name": "envelope",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "text4": "<a href=\"mailto:support@mobirise.com\">support@mobirise.com</a>",
+          "title1": "Kategorie",
+          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><a class=\"text-white\" href=\"#\">Design</a></li><li><a class=\"text-white\" href=\"#\">Real life</a></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><a class=\"text-white\" href=\"#\">Tech</a></li>",
+          "text6": "<strong>Kontakt</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Adres</strong><br>1234 Street Name<br>City, AA 99999",
+          "form": {
+            "title": "MESSAGE",
+            "action": "janerko@gmail.com",
+            "alerts": {
+              "success": "Dziękujemy za wypełnienie formularza!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Wiadomość"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Wyślij</a>"
+        }
+      ]
+    },
+    "dolacz.html": {
+      "settings": {
+        "title": "Dołącz do nas!",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1d",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "<p>Dołącz do nas!&nbsp;</p>",
+          "subtitle": "Chcesz zostać naszym wolontariuszem? Wypełnij poniższy formularz a my się z Tobą skontaktujemy!",
+          "form": {
+            "action": "janerko@gmail.com",
+            "alerts": {
+              "success": "Dziękujemy za wiadomość! Wkrótce się z Tobą skontaktujemy!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Imię*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefon"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Co Cię motywuje do zostania wolontariuszem?"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Wyślij!</a>",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b8312f!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-19",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/hokej-logo-1-666x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"onas.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">O nas</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"zalozyciele.html\">Założyciele</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"statut.html\">Statut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cele.html\">Cele</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aktualnosci.html\" aria-expanded=\"false\">Aktualności</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"dlazawodnikow.html\">Dla zawodników</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Partnerzy</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"partnerzy.html\" aria-expanded=\"false\">Dołącz do nas!</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"faq.html\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kontakt.html\" aria-expanded=\"false\">Kontakt</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts3-1a",
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "2",
