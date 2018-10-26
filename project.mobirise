@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-10-25_0952",
-    "currentPage": "dolacz.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -129,10 +129,14 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead B": {
-              "font-size": "19px"
+              "font-size": "19px",
+              "color": "#000000"
             },
             ".mbr-section-lead": {
               "font-size": "19px"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
             }
           },
           "_anchor": "header1-3",
@@ -147,16 +151,16 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
+            "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#000",
+            "overlayColor": "#ffffff",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
           "title": "Sukces to gra zespołowa",
-          "text": "<br>Polski hokej nie jest silny. Brakuje nam środków, umiejętności, zdolności organizacyjnych. Ale nie brakuje nam jednego – zawodników z sercem, którzy z zapałem i entuzjazmem godnym lepszej sprawy nadstawiają karku, tracą zęby i łamią kości dla radości z gry. <br><br>Nie wiemy, czy jest w tym jakiś wielki potencjał. Czy dzięki temu Polska ma szanse stać się hokejową siłą lub chociaż krajem liczącym się na hokejowej mapie. Ale wiemy, że ludzie z pasją zasługują na szacunek. Że sportowcy zasługują na traktowanie zgodne z zasadą fair play. <br><br>To dlatego zakładamy stowarzyszenie i dlatego chcemy pracować w nim społecznie – by pomagać zawodnikom, walczyć o ich prawa i promować hokej - najpiękniejszą dyscyplinę sportową na Świecie. Zapraszamy do współpracy wszystkich, którym też leży to na sercu.<br>",
+          "text": "<b><br>Polski hokej nie jest silny. Brakuje nam środków, umiejętności, zdolności organizacyjnych. Ale nie brakuje nam jednego – zawodników z sercem, którzy z zapałem i entuzjazmem godnym lepszej sprawy nadstawiają karku, tracą zęby i łamią kości dla radości z gry. <br><br>Nie wiemy, czy jest w tym jakiś wielki potencjał. Czy dzięki temu Polska ma szanse stać się hokejową siłą lub chociaż krajem liczącym się na hokejowej mapie. Ale wiemy, że ludzie z pasją zasługują na szacunek. Że sportowcy zasługują na traktowanie zgodne z zasadą fair play. <br><br>To dlatego zakładamy stowarzyszenie i dlatego chcemy pracować w nim społecznie – by pomagać zawodnikom, walczyć o ich prawa i promować hokej - najpiękniejszą dyscyplinę sportową na Świecie. Zapraszamy do współpracy wszystkich, którym też leży to na sercu.</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> "
         },
         {
